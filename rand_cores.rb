@@ -34,7 +34,7 @@ class RandCores
 	    p @cor[i].to_i * 16 + @cor[i+1].to_i
 	  end
 	end
-	  qntCores -= 1
-	end
+	qntCores -= 1
+      end
     end
 end
