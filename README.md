@@ -1,9 +1,9 @@
 # RandCores
-Método para criar cores em Hexadecimal de forma Randomica
-Utilizando securerandom
+* Método para criar cores em Hexadecimal de forma Randomica
+* Utilizando securerandom
+* Execute em um terminal
 
-Execute em um terminal
-- Estancie a classe RandCores
+Estancie a classe RandCores
 - randCores = RandCores.new
 - Utilize o método randCores.rgb()
 - Informar quantas cores querem que o script gere
