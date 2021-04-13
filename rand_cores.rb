@@ -4,9 +4,9 @@ require 'rand_cores_test'
 class RandCores
 
 def initialize
-@hex = '#'
-@rgb = []
-@cor = []
+	@hex = '#'
+	@rgb = []
+	@cor = []
 end
 
 def rgb(qntCores)
