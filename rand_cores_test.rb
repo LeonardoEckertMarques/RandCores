@@ -1,7 +1,5 @@
 require 'minitest/autorun'
 
-require_relative 'rand_cores'
-
 class RandCoresTest < Minitest::Test
 
   def setup
