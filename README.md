@@ -10,3 +10,6 @@ Estancie a classe RandCores
 - randCores.rgb(5)
 - Utilize o p randCores.rgb(5) para vizualizar o resultado no terminal
 - Resultado em Hexadecimal e o Decimal
+
+Minitest
+- Execute o teste
