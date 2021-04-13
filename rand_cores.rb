@@ -42,3 +42,4 @@ class RandCores
 	end
 
 end
+
